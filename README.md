@@ -1,6 +1,6 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/hachemartin/vueling"><img src="http://www.brandemia.org/sites/default/files/sites/default/files/vueling-airlines-despues.jpg" alt="Vueling Airlines" width=300"></a>
+  <a href="https://github.com/hachemartin/vueling"><img src="http://www.brandemia.org/sites/default/files/vueling_airlines.jpg" alt="Vueling Airlines" width=200"></a>
   <br>
     <br>
   Base de datos
@@ -18,4 +18,23 @@
   </a>
 </p>
 
+Skills
+  - [MySQL)](https://dev.mysql.com/doc/refman/8.0/en/)
+  - [MySQL Workbench)](https://dev.mysql.com/doc/workbench/en/)
+
 ## Introduction
+
+This repository was created with the intention of trainning MySQL concepts. The author [David Hache Martín](https://twitter.com/hachemartin).
+
+## Community
+
+Feel free to submit a PR adding a link to your own recaps or reviews.
+
+## Table of Contents
+
+1. **[Temario 1](#1-call-stack)**
+2. **[Temario 2](#2-primitive-types)**
+
+---
+
+## 1. Call Stack
