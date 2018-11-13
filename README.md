@@ -19,8 +19,8 @@
 </p>
 
 Skills
-  - [MySQL)](https://dev.mysql.com/doc/refman/8.0/en/)
-  - [MySQL Workbench)](https://dev.mysql.com/doc/workbench/en/)
+  - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
+  - [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)
 
 ## Introduction
 
